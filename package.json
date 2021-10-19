@@ -1,0 +1,17 @@
+{
+  "name": "Psccitoken12_apk",
+  "version": "7.20.0",
+  "author": "Faza Li.",
+  "description": "Application web app of javascript,python and html",
+],
+  "homepage": "https://github.com/psccitoken12/Psccitoken12_apk",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/junwatu/svh.git"
+  },
+  "license": "MIT"
+}
