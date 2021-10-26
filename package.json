@@ -3,7 +3,7 @@
   "version": "7.20.0",
   "author": "Faza Li.",
   "description": "Application web app of javascript,python and html",
-],
+},
   "homepage": "https://github.com/psccitoken12/Psccitoken12_apk",
   "main": "./src/index.js",
   "scripts": {
