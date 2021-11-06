@@ -13,5 +13,7 @@
     "type": "git",
     "url": "http://github.com/junwatu/svh.git"
   },
-  "license": "MIT"
+{
+  "license": "MIT",
 },
+
